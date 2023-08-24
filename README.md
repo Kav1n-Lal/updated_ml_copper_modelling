@@ -1,12 +1,5 @@
 # updated_ml_copper_modelling
 - Problem_statement_link [https://docs.google.com/document/d/1nWKUnD6F76F1AtGFEjyfIVH9oxcBUU1N/edit]
-### Intro-project_overview_video 
-
-### Regression task notebook explanation videos
-
-### Classification task notebook explanation videos
-
-### App Demo video
 
 ### Other
 - Download all the files in this repository
