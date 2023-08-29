@@ -1,7 +1,16 @@
 # updated_ml_copper_modelling
-- Problem_statement_link [https://docs.google.com/document/d/1nWKUnD6F76F1AtGFEjyfIVH9oxcBUU1N/edit]
+- ## Problem_statement_link
+-  [https://docs.google.com/document/d/1nWKUnD6F76F1AtGFEjyfIVH9oxcBUU1N/edit]
+- ## Introduction
+- [https://drive.google.com/file/d/1ZpcgdM-G1-zPdOOEad6GxgShMGkZUyHs/view?usp=sharing]
+- ## Regression task explanation
+- [https://drive.google.com/file/d/1w9JQxr-Z_NstZJgLUXkKEFEz4RhO2rtr/view?usp=sharing]
+- ## Classification task explanation
+- [https://drive.google.com/file/d/1QqQbKq40MBsv_PavCmUpP5w-fWYn6jbh/view?usp=sharing]
+- ## Streamlit app demonstration
+- [https://drive.google.com/file/d/1cSlWyN8VVc5VIJ3THMbCgyxtShBEPU-z/view?usp=sharing] 
 
-### Other
+## Other
 - Download all the files in this repository
 - The aim of this project is to predict copper selling price(regression) and copper status(classification) and create a user interactable app using streamlit to predict copper selling price and status.
 - Create a new environment called 'ml_coppermodelling' using conda prompt.Ref link [https://www.youtube.com/watch?v=xl0N7tHiwlw&t=1806s]
@@ -35,8 +44,9 @@
 - On the VScode terminal,type 'streamlit run rev_prediction_app.py'
 - The app is now deployed
 - ## Screenshots from the app
+![Screenshot (252)](https://github.com/Kav1n-Lal/updated_ml_copper_modelling/assets/116146011/7cb58c8d-3aa4-4539-8fc1-b6211a7810ea)
+![Screenshot (253)](https://github.com/Kav1n-Lal/updated_ml_copper_modelling/assets/116146011/d5e6c91f-2e1b-4439-9dbd-c1b5ed83a988)
+![Screenshot (254)](https://github.com/Kav1n-Lal/updated_ml_copper_modelling/assets/116146011/dda9aaff-1d93-4493-9826-5169cb476bdb)
+![Screenshot (255)](https://github.com/Kav1n-Lal/updated_ml_copper_modelling/assets/116146011/00845b13-87ce-4ed4-b284-e9f9a1f03cdb)
+![Screenshot (256)](https://github.com/Kav1n-Lal/updated_ml_copper_modelling/assets/116146011/206f9df5-2230-416d-ac99-739abf790507)
 
-|![Screenshot (238)](https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/73cde17f-507d-4cd5-86a7-8af77360db60)
-![Screenshot (239)](https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/fb726a75-f694-4035-b574-75e5d2301382)
-![Screenshot (240)](https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/2edc4b74-e8d6-491d-bd2c-302efb27a530)
-![Screenshot (241)](https://github.com/Kav1n-Lal/copper_modelling_regression_classification/assets/116146011/3048b251-d78f-41db-a3b8-d1c93ad5f631)
