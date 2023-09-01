@@ -1,13 +1,13 @@
 # updated_ml_copper_modelling
 - ## Problem_statement_link
 -  [https://docs.google.com/document/d/1nWKUnD6F76F1AtGFEjyfIVH9oxcBUU1N/edit]
-- ## Introduction
+- ## Introduction video
 - [https://drive.google.com/file/d/1ZpcgdM-G1-zPdOOEad6GxgShMGkZUyHs/view?usp=sharing]
-- ## Regression task explanation
+- ## Regression task explanation video
 - [https://drive.google.com/file/d/1w9JQxr-Z_NstZJgLUXkKEFEz4RhO2rtr/view?usp=sharing]
-- ## Classification task explanation
+- ## Classification task explanation video
 - [https://drive.google.com/file/d/1QqQbKq40MBsv_PavCmUpP5w-fWYn6jbh/view?usp=sharing]
-- ## Streamlit app demonstration
+- ## Streamlit app demonstration video
 - [https://drive.google.com/file/d/1cSlWyN8VVc5VIJ3THMbCgyxtShBEPU-z/view?usp=sharing] 
 
 ## Other
